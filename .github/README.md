@@ -1,5 +1,5 @@
-install v2.0
-git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+# install v2.0
+git clone -b v2.0 https://github.com/liyuefu/NvChad.git  ~/.config/nvim --depth 1
 
 
 
